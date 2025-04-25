@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I am currently looking for opportunities in the software and design development fields, with a focus on building innovative developments. I have gained knowledge of various technologies and am continuously practicing to improve my skills and gain more exposure to achieve my goal. I have participated in multiple competitions, such as hackathons, photography, and art, where I showcased my skills in e-learning, editing, and art. I have also worked on various projects that involved designing, testing, and implementing electronic and communication systems and devices. My goal is to use my engineering skills and creativity to contribute to the advancement of technology and society.
+            <p class="hero-description">
+                I am currently looking for opportunities in the software and design development fields, with a focus on building innovative developments. I have gained knowledge of various technologies and am continuously practicing to improve my skills and gain more exposure to achieve my goal. I have participated in multiple competitions, such as hackathons, photography, and art, where I showcased my skills in e-learning, editing, and art. I have also worked on various projects that involved designing, testing, and implementing electronic and communication systems and devices. My goal is to use my engineering skills and creativity to contribute to the advancement of technology and society.
+            </p>
 
 
 ## 🌐 Socials:
