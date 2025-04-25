@@ -1,9 +1,6 @@
 # 💫 About Me:
-            <p class="hero-description">
-                I am currently looking for opportunities in the software and design development fields, with a focus on building innovative developments. I have gained knowledge of various technologies and am continuously practicing to improve my skills and gain more exposure to achieve my goal. I have participated in multiple competitions, such as hackathons, photography, and art, where I showcased my skills in e-learning, editing, and art. I have also worked on various projects that involved designing, testing, and implementing electronic and communication systems and devices. My goal is to use my engineering skills and creativity to contribute to the advancement of technology and society.
-            </p>
-
-
+I am currently looking for opportunities in the software and design development fields, with a focus on building innovative developments. I have gained knowledge of various technologies and am continuously practicing to improve my skills and gain more exposure to achieve my goal. I have participated in multiple competitions, such as hackathons, photography, and art, where I showcased my skills in e-learning, editing, and art. I have also worked on various projects that involved designing, testing, and implementing electronic and communication systems and devices. My goal is to use my engineering skills and creativity to contribute to the advancement of technology and society.
+         
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/vishnuc26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_vishnu_._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishnu2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamvishnu2304@gmail.com) 
 
